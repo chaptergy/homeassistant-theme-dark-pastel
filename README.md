@@ -1,4 +1,4 @@
-## Dark Pastel theme for home assistant
+## Dark Pastel Theme for Home Assistant
 
 Dark Grey Theme with pastel orange accent colors for [Home Assistant](https://www.home-assistant.io).  
 Loosely based on [Noctis by aFFekopp](https://github.com/aFFekopp/noctis).

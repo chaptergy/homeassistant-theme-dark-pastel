@@ -22,6 +22,7 @@ Dark Pastel:
       disabled-text-color: '#626569'
       text-light-primary-color: 'var(--text-color)'
       text-accent-color: '#0d0a07'
+      mdc-theme-on-secondary: 'var(--text-accent-color)'
 
       # Text Fields and Dropdowns
       mdc-text-field-fill-color: 'var(--background-color)'
@@ -183,6 +184,7 @@ Dark Pastel:
 
       # Radio Button
       paper-radio-button-checked-color: 'var(--accent-color)'
+      mdc-radio-unchecked-color: 'var(--text-medium-color)'
 
       # Checkboxes
       mdc-checkbox-unchecked-color: 'var(--text-medium-color)'
