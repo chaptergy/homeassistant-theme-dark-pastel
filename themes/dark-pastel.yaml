@@ -48,7 +48,7 @@ Dark Pastel:
       # Main Colors
       app-header-background-color: 'var(--background-color)'
       header-height: '48px'
-      accent-color: rgb(var(--mush-rgb-orange))
+      accent-color: 'rgb(var(--mush-rgb-orange))'
       accent-medium-color: 'var(--accent-color)'
       primary-color: 'var(--accent-color)'
       dark-primary-color: 'var(--accent-color)'
@@ -82,6 +82,7 @@ Dark Pastel:
       paper-item-icon-color: '#ebebeb'
       paper-item-icon-active-color: 'var(--accent-color)'
       paper-item-selected_-_background-color: 'var(--background-color)'
+      icon-color: 'var(--text-color)'
 
       # RGB States
       rgb-state-default-color: '253, 203, 110'
@@ -89,9 +90,9 @@ Dark Pastel:
 
       # State Colors
       state-active-color: 'var(--state-orange-color)'
-      state-red-color: rgb(var(--mush-rgb-red))
-      state-green-color: rgb(var(--mush-rgb-green))
-      state-orange-color: rgb(var(--mush-rgb-orange))
+      state-red-color: 'rgb(var(--mush-rgb-red))'
+      state-green-color: 'rgb(var(--mush-rgb-green))'
+      state-orange-color: 'rgb(var(--mush-rgb-orange))'
       state-alarm_control_panel-armed_away-color: 'var(--state-green-color)'
       state-alarm_control_panel-armed_custom_bypass-color: 'var(--state-green-color)'
       state-alarm_control_panel-armed_home-color: 'var(--state-green-color)'
@@ -246,6 +247,9 @@ Dark Pastel:
 
       # Alarm
       alarm-color-armed: 'var(--state-red-color)'
+      
+      # Graph
+      track-color: 'rgb(var(--mush-rgb-blue))'
 
       # Valetudo
       valetudo-map-floor-color: 'var(--switch-unchecked-color)'
