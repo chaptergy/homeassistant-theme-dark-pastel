@@ -6,7 +6,7 @@ Loosely based on [Noctis by aFFekopp](https://github.com/aFFekopp/noctis).
 [![Donate on Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/chaptergy/donate)
 <a href="https://www.buymeacoffee.com/chaptergy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Donate on Buy Me A Coffee" height="30" width="127"></a>
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+<!--[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)-->
 
 ## Screenshot
 
@@ -20,8 +20,10 @@ Note that the garbage collection section is a [TrashCard](https://github.com/ida
 
 1. Install the [Home Assistant Community Store](https://github.com/custom-components/hacs) if you do not have it already.
 2. Go to the Community Store.
-3. Click on the _Themes_ tab.
-4. Search for _Dark Pastel_ and install it.
+3. Click on the three-dot menu on the upper right and choose _Custom Repositories_.
+4. Set https://github.com/chaptergy/homeassistant-theme-dark-pastel as the repository and _Theme_ as the category.
+5. Click on _Add_ and close the _Custom Repositories_ popup.
+6. Search for _Dark Pastel_ in the search bar, select it and then click _Download_.
 
 #### Manual Installation
 
